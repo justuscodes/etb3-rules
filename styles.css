@@ -1,6 +1,7 @@
 body {
     font-family: sans serif, serif, monospace, auto;
     -moz-hyphens: auto;
+    hyphens: auto;
     font-size: 110%;
     margin-left: auto;
     margin-right: auto;
@@ -14,24 +15,28 @@ h1,h2,h3 {
 
 h1 {
     -moz-hyphens: none;
+    hyphens: auto;
     font-size: 160%;
     text-align: center
 }
 
 h2 {
     -moz-hyphens: none;
+    hyphens: auto;
     font-size: 140%;
     text-align: left
 }
 
 h3 {
     -moz-hyphens: none;
+    hyphens: auto;
     font-size: 120%;
     text-align: left
 }
 
 blockquote {
     -moz-hyphens: none;
+    hyphens: auto;
     text-align: left
 }
 
