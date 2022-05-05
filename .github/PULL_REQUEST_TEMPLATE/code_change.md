@@ -1,5 +1,5 @@
-[ ] Ich habe sichergestellt, dass es keine andere Pull Request gibt bzw. gab, die die gleiche Änderung vorgeschlagen hat.
-[ ] Ich habe die Pull Request für die entsprechende Branch (bspw. etb-4) und nicht für die master-Branch erstellt.
+- [ ] Ich habe sichergestellt, dass es keine andere Pull Request gibt bzw. gab, die die gleiche Änderung vorgeschlagen hat.
+- [ ] Ich habe die Pull Request für die entsprechende Branch (bspw. etb-4) und nicht für die master-Branch erstellt.
 
 Ich habe folgende Fehlermeldung behoben: ...
 Ich habe folgende Änderungen vorgenommen:
